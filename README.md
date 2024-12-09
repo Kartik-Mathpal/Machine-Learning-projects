@@ -1,4 +1,5 @@
 # Machine-Learning-projects
 These are some of the Machine Learning projects that I have done. 
-- Linear Regression - In this project the task was to find the variables that are significant in predicting the car price. This analysis will help a Chinese car maker that wants to enter American market.
-- Logistics Regression - In this project the task was to help an online education company to increase its lead conversion rate by focusing more on leads that have high probabiity of conversion (Hot Leads). This model will help the company to identify hot leads with high accuracy.
+1. Linear Regression: Conducted an analysis to identify key variables influencing car prices, providing actionable insights for a Chinese car manufacturer planning to enter the American market.
+
+2. Logistic Regression: Developed a predictive model to assist an online education company in improving its lead conversion rate by accurately identifying high-priority "hot leads," enabling targeted marketing efforts.
